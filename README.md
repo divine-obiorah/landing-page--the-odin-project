@@ -13,7 +13,7 @@ This project focuses on building a modern landing page layout using core web tec
 
 ### Live Preview
 
-[Github Pages](https://Dhee-codes.github.io/landing-page--tut/)
+[Github Pages](https://Dhee-codes.github.io/landing-page/)
 
 ## Features
 
